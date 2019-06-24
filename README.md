@@ -15,5 +15,7 @@ Once we got the program running, we can adjust some parameters in order to obtai
   - Nvecinos, is the neighborhood
   
  ![setting window](https://github.com/coloal/Cellular-Automata/blob/master/SettingsWindow.png)
+ 
  Now we can see the output of the first epoch, after pushing the botton "DIBUJAR", everytime we push this botton we create a new generation.
+ 
  ![Display window](https://github.com/coloal/Cellular-Automata/blob/master/ExampleCellularAutomata.png)
