@@ -5,7 +5,7 @@ Implementation of Cellular automata in Java 8, and a GUI(done with the Swing lib
 To compile and then execute:
   javac Simulatore.java
   java Simulatore
- 
+ ![]
  (https://github.com/coloal/Cellular-Automata/blob/CA-images/EjemploAutomataCellular.png)
 
 ## Spanish
