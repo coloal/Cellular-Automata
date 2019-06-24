@@ -1,12 +1,12 @@
 # Cellular-Automata
-##English
+## English
 Implementation of Cellular automata in Java 8, and a GUI(done with the Swing library) to observe them.
 
 To compile and then execute:
   javac Simulatore.java
   java Simulatore
   
-##Spanish
+## Spanish
 Implementación para Automatas Celulares en Java 8, y una GUI(hecha con la bilioteca Swing) para observarlos.
 
 Para compilarlos y ejecutarlos:
