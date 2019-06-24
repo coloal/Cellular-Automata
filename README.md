@@ -6,7 +6,7 @@ To compile and then execute:
   javac Simulatore.java
   java Simulatore
   
-
+![Coment](https://github.com/coloal/Cellular-Automata/blob/CA-images/EjemploAutomataCellular.png)
 ## Spanish
 Implementación para Automatas Celulares en Java 8, y una GUI(hecha con la bilioteca Swing) para observarlos.
 
