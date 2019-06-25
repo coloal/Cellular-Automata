@@ -1,5 +1,5 @@
 # Cellular-Automata
-## English
+## How does this works and what is it?
 Parallel implementation of 1D Cellular automata in Java 8, and a GUI(done with the Swing library) to observe them.
 
 To compile and then execute:
