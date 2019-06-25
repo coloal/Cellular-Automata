@@ -1,6 +1,6 @@
 # Cellular-Automata
 ## English
-Parallel implementation of Cellular automata in Java 8, and a GUI(done with the Swing library) to observe them.
+Parallel implementation of 1D Cellular automata in Java 8, and a GUI(done with the Swing library) to observe them.
 
 To compile and then execute:
   javac Simulatore.java
@@ -17,7 +17,7 @@ Once we got the program running, we can adjust some parameters in order to obtai
   
  ![setting window](https://github.com/coloal/Cellular-Automata/blob/master/SettingsWindow.png)
  
- Now we can see the output of the first epoch, after pushing the botton "DIBUJAR", everytime we push this botton we create a new generation.
+ Now we can see the output of the first epoch, after pushing the botton "DIBUJAR", everytime we push this botton we create a 640 new generations(since every row is generation).
  
  ![Display window](https://github.com/coloal/Cellular-Automata/blob/master/ExampleCellularAutomata.png)
  
