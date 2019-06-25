@@ -20,3 +20,5 @@ Once we got the program running, we can adjust some parameters in order to obtai
  Now we can see the output of the first epoch, after pushing the botton "DIBUJAR", everytime we push this botton we create a new generation.
  
  ![Display window](https://github.com/coloal/Cellular-Automata/blob/master/ExampleCellularAutomata.png)
+ 
+ We also have a very sample graphical display of the evolution of the Hamming distance(line in red) and the spatial entropy(line in black) of the cellular automata, and also a display of the numeric value of the seventh cell entropy in function of time.
