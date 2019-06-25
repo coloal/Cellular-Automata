@@ -22,3 +22,5 @@ Once we got the program running, we can adjust some parameters in order to obtai
  ![Display window](https://github.com/coloal/Cellular-Automata/blob/master/ExampleCellularAutomata.png)
  
  We also have a very sample graphical display of the evolution of the Hamming distance(line in red) and the spatial entropy(line in black) of the cellular automata, and also a display of the numeric value of the seventh cell entropy in function of time.
+
+![Statics window](https://github.com/coloal/Cellular-Automata/blob/master/StatsCA.png)
