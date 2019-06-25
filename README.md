@@ -26,5 +26,8 @@ Once we got the program running, we can adjust some parameters in order to obtai
 ![Statics window](https://github.com/coloal/Cellular-Automata/blob/master/StatsCA.png)
 
 ## Some well-known cellular automatas
-### Rule 30 with void frontier and Fisman and Moore generator
+### Rule 30 with void frontier and Fishman and Moore generator
 ![Rule 30 with void frontier](https://github.com/coloal/Cellular-Automata/blob/master/CA30VoidFrontier.png)
+
+### Rule 30 with cyclic frontier and Fishman and Moore generator
+![Rule 30 with cylindric frontier](https://github.com/coloal/Cellular-Automata/blob/master/CA30CylindricFrontier.png)
