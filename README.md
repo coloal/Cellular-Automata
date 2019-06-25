@@ -1,6 +1,6 @@
 # Cellular-Automata
 ## English
-Implementation of Cellular automata in Java 8, and a GUI(done with the Swing library) to observe them.
+Parallel implementation of Cellular automata in Java 8, and a GUI(done with the Swing library) to observe them.
 
 To compile and then execute:
   javac Simulatore.java
@@ -8,6 +8,7 @@ To compile and then execute:
   
 Once we got the program running, we can adjust some parameters in order to obtain the cellular automata requiered. We have the following parameters:
   - Semilla, SemillaX, SemillaW and SemillaY which are all seeds for the random generator. The random generator is used to initialize randomly the pane.
+  -We also have a list of different random generators such as the methods of Fishman & Moore, the Randu metho and others.
   - fTransicion, is the transition function. To consult some well-knowns transition functions: http://mathworld.wolfram.com/ElementaryCellularAutomaton.html
   - Ncelulas, is the number of cells used in the pane.
   - Nestados, is the number of states.
